@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="t1">helloworld</text>
 <button size="mini">登录</button>
+<view>知识点3.1</view>
