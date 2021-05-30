@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="t1">helloworld</text>
 <button size="mini">登录</button>
+<view>3.制作第一个小程序</view>
