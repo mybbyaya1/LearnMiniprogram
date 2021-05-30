@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.t1
+{
+  color:red;
+  font-size:20px;
+}
